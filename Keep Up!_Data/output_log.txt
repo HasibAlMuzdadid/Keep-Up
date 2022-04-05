@@ -1,0 +1,49 @@
+Mono path[0] = 'C:/Users/THIS PC/Desktop/git/Keep Up!/Keep Up!_Data/Managed'
+Mono path[1] = 'C:/Users/THIS PC/Desktop/git/Keep Up!/Keep Up!_Data/Mono'
+Mono config path = 'C:/Users/THIS PC/Desktop/git/Keep Up!/Keep Up!_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/THIS PC/Desktop/git/Keep Up!/Keep Up!_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55209
+Multi-casting "[IP] 192.168.0.104 [Port] 55209 [Flags] 2 [Guid] 3508235245 [EditorId] 2745302442 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-TT1I0O0) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55209]
+PlayerConnection already initialized - listening to [0.0.0.0:55209]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   27.21.14.5763
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.370 seconds
+Platform assembly: C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\THIS PC\Desktop\git\Keep Up!\Keep Up!_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 12.907300 ms
+no space  0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+RoadSpawner:spawnRoad() (at C:\Users\Game\Keep up\Assets\prefab\RoadSpawner.cs:88)
+ 
+(Filename: C:/Users/Game/Keep up/Assets/prefab/RoadSpawner.cs Line: 88)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5680 -> priority: 1 
+  Thread -> id: 31d8 -> priority: 1 
