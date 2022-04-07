@@ -8,5 +8,5 @@
 **Author :** </br>
 Hasib Al Muzdadid</br>
 Department of Computer Science & Engineering, </br>
-Rajshahi University of Engineering & Technology (RUET) </br>
+[Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
 Email: muzdadid@gmail.com
