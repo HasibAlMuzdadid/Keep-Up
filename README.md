@@ -13,4 +13,9 @@ Email: muzdadid@gmail.com
 
 
 ## Project Description :
-This game was developed for the completion of 80 hours long **"Mobile Game Graphics Design"** and **"Advanced Mobile Game Development"** courses under [**Capacity Building for Mobile Game Development Program**](http://mgames.ictd.gov.bd/) offered by [**ICT DIVISION, BANGLADESH**](https://ictd.gov.bd/) after becoming one of the champions of their game development competition hosted in [**RUET**](https://www.ruet.ac.bd/).
+This game was developed for the completion of 80 hours long **"Mobile Game Graphics Design"** and **"Advanced Mobile Game Development"** courses under [**Capacity Building for Mobile Game Development Program**](http://mgames.ictd.gov.bd/) offered by [**ICT DIVISION, BANGLADESH**](https://ictd.gov.bd/) after becoming one of the champions of their **Game Development Competition** hosted in [**RUET**](https://www.ruet.ac.bd/).
+
+**Language used :** C# </br>
+**Graphics Design Tool :** [Blender](https://www.blender.org/)</br>
+**Game Engine :** [Unity](https://unity.com/)
+ 
